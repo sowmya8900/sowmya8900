@@ -1,5 +1,26 @@
 # 💫 About Me:
-Hi there! 👋 I'm Sowmya<br>I'm a Researcher passionate about High-Performance Computing, Parallel Programming, and Computer Architecture. My work revolves around optimizing performance for large-scale applications and designing efficient computational solutions.<br><br>🔹 Incoming PhD Student in Computer Science<br>🔹 Master's in Computer Science (2024)<br>🔹 Experience with C++, CUDA, OpenMP, MPI, and HPC Performance Optimization<br>🔹 Research in Load Balancing Algorithms & Parallel Computing<br><br>💻 What I Work On:<br>HPC & Parallel Programming: Optimizing large-scale simulations and computational workloads<br><br>GPU & CPU Performance Optimization: CUDA acceleration, profiling, and algorithm tuning<br><br>Scientific Computing & Numerical Methods: Solving PDEs efficiently with modern architectures<br><br>Software Development & System-Level Programming: Building robust, high-performance applications<br><br>🚀 Current Projects:<br>🔸 High-Performance Parallel PDE Solver – Developing a scalable solver using C++ with parallel programming frameworks<br>🔸 Load Balancing in HPC<br><br>🌱 Learning & Interests:<br>Compiler Optimizations for HPC – Exploring advanced techniques to enhance performance and efficiency<br>AI/ML in Scientific Computing – Applying machine learning for adaptive optimizations in numerical simulations<br>Scalable Distributed Computing – Designing and optimizing parallel frameworks for large-scale computation<br><br>
+Hi there! 👋 I'm Sowmya<br>
+I'm a Researcher passionate about High-Performance Computing, Parallel Programming, and Computer Architecture. My work revolves around optimizing performance for large-scale applications and designing efficient computational solutions.<br><br>
+
+🔹 Incoming PhD Student in Computer Science<br>
+🔹 Master's in Computer Science (2024)<br>
+🔹 Experience with C++, CUDA, OpenMP, MPI, and HPC Performance Optimization<br>
+🔹 Research in Load Balancing Algorithms & Parallel Computing<br><br>
+
+💻 What I Work On:<br>
+- HPC & Parallel Programming: Optimizing large-scale simulations and computational workloads<br>
+- GPU & CPU Performance Optimization: CUDA acceleration, profiling, and algorithm tuning<br>
+- Scientific Computing & Numerical Methods: Solving PDEs efficiently with modern architectures<br>
+- Software Development & System-Level Programming: Building robust, high-performance applications<br><br>
+
+🚀 Current Projects:<br>
+🔸 High-Performance Parallel PDE Solver – Developing a scalable solver using C++ with parallel programming frameworks<br>
+🔸 Load Balancing in HPC<br><br>
+
+🌱 Learning & Interests:<br>
+- Compiler Optimizations for HPC – Exploring advanced techniques to enhance performance and efficiency<br>
+- AI/ML in Scientific Computing – Applying machine learning for adaptive optimizations in numerical simulations<br>
+- Scalable Distributed Computing – Designing and optimizing parallel frameworks for large-scale computation<br><br>
 
 
 ## 🌐 Socials:
